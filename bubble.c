@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 int main(){
     int a[5]={1,2,4,1,0};
     for(int i=0 ; i<4 ; i++){
